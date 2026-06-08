@@ -84,12 +84,11 @@ The project contains three tables:
 - VS Code
 - GitHub
 
-## What I Learned
+## Key Findings
 
-- How to join multiple tables
-- How to calculate business KPIs like revenue
-- How to use CTEs to simplify complex queries
-- How to use window functions such as ROW_NUMBER, DENSE_RANK, and LAG
+- Electronics drove 91% of total revenue
+- Top 3 customers contributed 67% of total sales
+- Month-over-month revenue peaked in March 2025
 
 ## Author
 
